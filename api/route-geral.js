@@ -10,7 +10,7 @@ router.get(
 );
 
 router.get(   //R - Read
-    "/", async (request,response)=>{
+    "/geral", async (request,response)=>{
         const dados = await db.selectTb();
         console.log('Get...');
         console.log(dados);

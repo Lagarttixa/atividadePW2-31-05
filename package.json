@@ -17,7 +17,7 @@
     "mysql2": "^2.3.3",
     "nodemon": "^2.0.15",
     "reload": "^3.2.0",
-    "swagger-autogen": "^2.21.1",
-    "swagger-ui-express": "^4.3.0"
+    "swagger-autogen": "^2.21.3",
+    "swagger-ui-express": "^4.4.0"
   }
 }

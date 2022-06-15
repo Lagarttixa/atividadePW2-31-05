@@ -4,7 +4,7 @@ const db = require('../db');
 
 const root = './';
 router.get(
-    "/",(request,response)=>{
+    "/ped",(request,response)=>{
         response.sendFile('dist/index.html',{root});
     }
 );
